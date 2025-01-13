@@ -29,3 +29,17 @@ I may revise the course outline and reading list during the semester.
 - Whited, Toni M. (2015), ["Overview of Structural Estimation."](http://toni.marginalq.com/discussions/Texas_Structural_Estimation_Lecture.pdf) Lecture in University of Texas, Austin
 - Whited, Toni M. (2023) ["Integrating Structural and Reduced-Form Methods in Empirical Finance."](https://academic.oup.com/jfec/article-abstract/21/3/597/6833184?redirectedFrom=fulltext&login=false) Journal of Financial Econometrics
 - MF Ch3
+
+### Week 2: Optimization
+- MF Ch4
+- Su, C.-L. and Judd, K.L. (2012), ["Constrained Optimization Approaches to Estimation of Structural Models."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7925) Econometrica
+- Rust, John (2000), ["Nested Fixed Point Algorithm: Documentation Manual."](https://editorialexpress.com/jrust/nfxp.pdf) Technical notes
+
+### Week 3: Numerical differentiation and integration
+- MF Ch5
+- Sun, Jeffrey (2023), ["Granular Agents: Implicit Automatic Differentiation."](https://jeffreyesun.com/#working_papers) Technical notes
+- Edmond, Chris et al. (2023), ["How Costly Are Markups?"](https://www.journals.uchicago.edu/doi/abs/10.1086/722986) Journal of Political Economy
+
+### Week 4: Dynamic programming
+- AC Ch2&5
+- Aw, Bee Yan, Mark J. Roberts, and Daniel Yi Xu. (2008). ["R&D Investments, Exporting, and the Evolution of Firm Productivity."](https://www.jstor.org/stable/29730063) American Economic Review
