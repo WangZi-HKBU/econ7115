@@ -1,1 +1,2 @@
-
+Run estimation_gravity_fe.do in STATA 18 to estimate fixed-effect gravity equation
+Run main_cf.m in Matlab (2018b or later) to do counterfactuals (exact-hat algebra)
