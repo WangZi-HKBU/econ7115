@@ -44,3 +44,9 @@ I may revise the course outline and reading list during the semester.
 ### Week 4: Dynamic programming
 - AC Ch2&5
 - Aw, Bee Yan, Mark J. Roberts, and Daniel Yi Xu. (2008). ["R&D Investments, Exporting, and the Evolution of Firm Productivity."](https://www.jstor.org/stable/29730063) American Economic Review
+
+### Week 5: Quantitative trade models
+- Lashkaripour, Ahmad, and Volodymyr Lugovskyy. (2023). ["Profits, Scale Economies, and the Gains from Trade and Industrial Policy."](https://www.aeaweb.org/articles?id=10.1257/aer.20210419) American Economic Review
+- Dominick Bartelme, Arnaud Costinot, Dave J. Donaldson, and Andres Rodriguez-Clare. (2025) ["The Textbook Case for Industrial Policy: Theory Meets Data."](https://dave-donaldson.com/wp-content/uploads/BCDR.pdf) Journal of Political Economy
+- Ossa, Ralph. (2014). ["Trade Wars and Trade Talks with Data."](https://www.aeaweb.org/articles?id=10.1257/aer.104.12.4104) American Economic Review
+- Eaton, J., Kortum, S. and Kramarz, F. (2011), ["An Anatomy of International Trade: Evidence From French Firms."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8318) Econometrica
