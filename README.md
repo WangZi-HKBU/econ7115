@@ -31,6 +31,7 @@ I may revise the course outline and reading list during the semester.
 - MF Ch3
 
 ### Week 2: Optimization
+- Gentzkow, Matthew and Jesse M. Shapiro (2014) ["Code and Data for the Social Sciences: A Practitioner's Guide"](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 - MF Ch4
 - Su, C.-L. and Judd, K.L. (2012), ["Constrained Optimization Approaches to Estimation of Structural Models."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7925) Econometrica
 - Rust, John (2000), ["Nested Fixed Point Algorithm: Documentation Manual."](https://editorialexpress.com/jrust/nfxp.pdf) Technical notes
