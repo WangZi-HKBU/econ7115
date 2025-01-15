@@ -1,1 +1,2 @@
-All assignments are due at the last class on April 23rd, 2025.
+All assignments are due by the final class on April 23, 2025.
+Students are encouraged to collaborate on the assignments. If you benefit from discussions with your peers, please acknowledge their contributions.
