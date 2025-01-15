@@ -8,6 +8,7 @@ The objective of this course is to familiarize students with structural models a
 ## Logistics
 Course materials: https://github.com/WangZi-HKBU/econ7115  
 Class schedule: Wednesdays 18:30-21:20  
+Location: DLB712  
 Email: wangzi@hkbu.edu.hk  
 Office hours: By appointment, please email
 
