@@ -31,6 +31,7 @@ I may revise the course outline and reading list during the semester.
 - Whited, Toni M. (2023) ["Integrating Structural and Reduced-Form Methods in Empirical Finance."](https://academic.oup.com/jfec/article-abstract/21/3/597/6833184?redirectedFrom=fulltext&login=false) Journal of Financial Econometrics
 - MF Ch3
 - Andrews, Isaiah et al. (2017), ["Measuring the Sensitivity of Parameter Estimates to Estimation Moments"](https://economics.mit.edu/sites/default/files/2023-06/sensitivity.pdf)
+- Sanders, Bas (2023), ["Counterfactual Sensitivity in Quantitative Trade and Spatial Models"](https://arxiv.org/abs/2311.14032)
 
 ### Week 2: Optimization
 - Gentzkow, Matthew and Jesse M. Shapiro (2014) ["Code and Data for the Social Sciences: A Practitioner's Guide"](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
