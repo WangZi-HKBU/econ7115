@@ -63,12 +63,14 @@ hX_lb = 0*ones(m.N, 1);
 hP_lb = 0*ones(m.N, 1);
 hw_lb = 0*ones(m.N, 1);
 ttar_lb = -1*ones(m.N, 1);
+ttar_lb(i) = 0;
 lb = [hX_lb; hP_lb; hw_lb; ttar_lb];
 
 hX_ub = inf*ones(m.N, 1);
 hP_ub = inf*ones(m.N, 1);
 hw_ub = inf*ones(m.N, 1);
 ttar_ub = inf*ones(m.N, 1);
+ttar_ub(i) = 0;
 ub = [hX_ub; hP_ub; hw_ub; ttar_ub];
 
 x0 = [ones(3*m.N, 1); m.tar(:,i)]; % Initial guesses
