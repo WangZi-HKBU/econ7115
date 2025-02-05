@@ -30,6 +30,7 @@ I may revise the course outline and reading list during the semester.
 - Whited, Toni M. (2015), ["Overview of Structural Estimation."](http://toni.marginalq.com/discussions/Texas_Structural_Estimation_Lecture.pdf) Lecture in University of Texas, Austin
 - Whited, Toni M. (2023) ["Integrating Structural and Reduced-Form Methods in Empirical Finance."](https://academic.oup.com/jfec/article-abstract/21/3/597/6833184?redirectedFrom=fulltext&login=false) Journal of Financial Econometrics
 - MF Ch3
+- Andrews, Isaiah et al. (2017), ["Measuring the Sensitivity of Parameter Estimates to Estimation Moments"](https://economics.mit.edu/sites/default/files/2023-06/sensitivity.pdf)
 
 ### Week 2: Optimization
 - Gentzkow, Matthew and Jesse M. Shapiro (2014) ["Code and Data for the Social Sciences: A Practitioner's Guide"](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
