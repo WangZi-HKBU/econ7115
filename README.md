@@ -48,6 +48,7 @@ I may revise the course outline and reading list during the semester.
 ### Week 4: Dynamic programming
 - AC Ch2&5
 - Aw, Bee Yan, Mark J. Roberts, and Daniel Yi Xu. (2008). ["R&D Investments, Exporting, and the Evolution of Firm Productivity."](https://www.jstor.org/stable/29730063) American Economic Review
+- Maliar et al. (2021). ["Deep learning for solving dynamic economic models."](https://www.sciencedirect.com/science/article/pii/S0304393221000799) Journal of Monetary Economics
 
 ### Week 5: Quantitative trade models
 - Lashkaripour, Ahmad, and Volodymyr Lugovskyy. (2023). ["Profits, Scale Economies, and the Gains from Trade and Industrial Policy."](https://www.aeaweb.org/articles?id=10.1257/aer.20210419) American Economic Review
