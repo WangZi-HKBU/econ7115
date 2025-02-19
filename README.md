@@ -56,6 +56,7 @@ I may revise the course outline and reading list during the semester.
 - Dominick Bartelme, Arnaud Costinot, Dave J. Donaldson, and Andres Rodriguez-Clare. (2025) ["The Textbook Case for Industrial Policy: Theory Meets Data."](https://dave-donaldson.com/wp-content/uploads/BCDR.pdf) Journal of Political Economy
 - Ossa, Ralph. (2014). ["Trade Wars and Trade Talks with Data."](https://www.aeaweb.org/articles?id=10.1257/aer.104.12.4104) American Economic Review
 - Eaton, J., Kortum, S. and Kramarz, F. (2011), ["An Anatomy of International Trade: Evidence From French Firms."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8318) Econometrica
+- Allen, Treb, Costas Arkolakis, and Xiangliang Li. 2024. ["On the Equilibrium Properties of Spatial Models."](https://www.aeaweb.org/articles?id=10.1257/aeri.20230495) American Economic Review: Insights 6 (4): 472–89. 
 
 ### Week 6: Quantitative spatial models
 - Treb Allen, Costas Arkolakis (2014). ["Trade and the Topography of the Spatial Economy."](https://academic.oup.com/qje/article-abstract/129/3/1085/1818077) The Quarterly Journal of Economics
