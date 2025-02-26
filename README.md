@@ -57,7 +57,7 @@ I may revise the course outline and reading list during the semester.
 - Ossa, Ralph. (2014). ["Trade Wars and Trade Talks with Data."](https://www.aeaweb.org/articles?id=10.1257/aer.104.12.4104) American Economic Review
 - Eaton, J., Kortum, S. and Kramarz, F. (2011), ["An Anatomy of International Trade: Evidence From French Firms."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA8318) Econometrica
 - Allen, Treb, Costas Arkolakis, and Xiangliang Li. 2024. ["On the Equilibrium Properties of Spatial Models."](https://www.aeaweb.org/articles?id=10.1257/aeri.20230495) American Economic Review: Insights 6 (4): 472–89.
-- Ding, Xiang. 2023. [Industry Linkages from Joint Production](https://static1.squarespace.com/static/5e9274c4d3c3111d9a55f9b7/t/63caefd0de0103433ade7ebc/1674244050870/JointProduction_Ding.pdf)
+- Ding, Xiang. 2023. ["Industry Linkages from Joint Production."](https://static1.squarespace.com/static/5e9274c4d3c3111d9a55f9b7/t/63caefd0de0103433ade7ebc/1674244050870/JointProduction_Ding.pdf)
 
 ### Week 6: Quantitative spatial models
 - Treb Allen, Costas Arkolakis (2014). ["Trade and the Topography of the Spatial Economy."](https://academic.oup.com/qje/article-abstract/129/3/1085/1818077) The Quarterly Journal of Economics
