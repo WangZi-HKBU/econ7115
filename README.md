@@ -66,6 +66,7 @@ I may revise the course outline and reading list during the semester.
 - Treb Allen, Costas Arkolakis (2022), ["The Welfare Effects of Transportation Infrastructure Improvements"](https://academic.oup.com/restud/article-abstract/89/6/2911/6519332), The Review of Economic Studies
 
 ### Week 7: Dynamic trade and spatial models
+- Alessandria et al. (2025). ["Trade Policy Dynamics:  Evidence from 60 years of U.S.-China Trade."](https://drive.google.com/file/d/1qa0dZzcZC2dnE-ubTZV4btM8cQi4BqWI/view) Journal of Political Economy
 - Cai, Jie, Nan Li, and Ana Maria Santacreu. (2022). ["Knowledge Diffusion, Trade, and Innovation across Countries and Sectors."](https://www.aeaweb.org/articles?id=10.1257/mac.20200084) American Economic Journal: Macroeconomics
 - Caliendo, L., Dvorkin, M. and Parro, F. (2019), ["Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA13758) Econometrica
 - Kleinman, B., Liu, E. and Redding, S.J. (2023), ["Dynamic Spatial General Equilibrium."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA20273) Econometrica
