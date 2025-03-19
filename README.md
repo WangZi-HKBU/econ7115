@@ -77,6 +77,7 @@ I may revise the course outline and reading list during the semester.
 - Ackerberg, D.A., Caves, K. and Frazer, G. (2015), [Identification Properties of Recent Production Function Estimators.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA13408) Econometrica
 - Amit Khandelwal (2010).[The Long and Short (of) Quality Ladders](https://academic.oup.com/restud/article-abstract/77/4/1450/1644448), The Review of Economic Studies
 - Paul Piveteau, Gabriel Smagghue (2019). ["Estimating firm product quality using trade data."](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300194) Journal of International Economics
+- De Loecker, Jan, and Frederic Warzynski. (2012). ["Markups and Firm-Level Export Status."](https://www.aeaweb.org/articles?id=10.1257/aer.102.6.2437) American Economic Review 102 (6): 2437–71. 
 
 ### Week 9: Demand estimation
 - Berry, S., Levinsohn, J., & Pakes, A. (1995). [Automobile Prices in Market Equilibrium.](https://www.jstor.org/stable/2171802) Econometrica
