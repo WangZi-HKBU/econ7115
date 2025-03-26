@@ -90,6 +90,7 @@ I may revise the course outline and reading list during the semester.
 - Rust, John. (1987). ["Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher"](https://www.jstor.org/stable/1911259) Econometrica
 - Keane, Michael P. and Kenneth I. Wolpin. (1997). ["The Career Decisions of Young Men"](https://www.jstor.org/stable/10.1086/262080) Journal of Political Economy
 - Chen, Zhao et al. (2023). ["Tax Policy and Lumpy Investment Behaviour: Evidence from China’s VAT Reform"](https://academic.oup.com/restud/article-abstract/90/2/634/6586315?redirectedFrom=fulltext&login=false) The Review of Economic Studies
+- Keane, Michael P. ["Practical Issues in Structural Estimation"](https://www.youtube.com/watch?v=0hazaPBAYWE&t=99s)
 
 ### Week 11: Using IV to identify and validate structural models
 - Davis, M.A., Fisher, J.D.M. and Whited, T.M. (2014), ["Macroeconomic Implications of Agglomeration."](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA9029) Econometrica
