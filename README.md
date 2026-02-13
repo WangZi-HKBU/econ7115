@@ -52,6 +52,10 @@ I may revise the course outline and reading list during the semester.
 - Cai and Judd (2014). ["Advances in Numerical Dynamic Programming and New Applications"](https://kenjudd.org/wp-content/uploads/2021/11/2014-Advances-in-Numerical-Dynamic-Programming-and-New-Applications_Handbook-of-Computational-Economics.pdf) Chapter 8, Handbook of Computational Economics, Volume 3
 
 ### Week 5 (02/13 online): Quantitative trade models
+
+Zoom: 958 9826 0618
+Password: 875170
+
 - Lashkaripour, Ahmad, and Volodymyr Lugovskyy. (2023). ["Profits, Scale Economies, and the Gains from Trade and Industrial Policy."](https://www.aeaweb.org/articles?id=10.1257/aer.20210419) American Economic Review
 - Dominick Bartelme, Arnaud Costinot, Dave J. Donaldson, and Andres Rodriguez-Clare. (2025) ["The Textbook Case for Industrial Policy: Theory Meets Data."](https://dave-donaldson.com/wp-content/uploads/BCDR.pdf) Journal of Political Economy
 - Ossa, Ralph. (2014). ["Trade Wars and Trade Talks with Data."](https://www.aeaweb.org/articles?id=10.1257/aer.104.12.4104) American Economic Review
