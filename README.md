@@ -39,6 +39,7 @@ I may revise the course outline and reading list during the semester.
 - Su, C.-L. and Judd, K.L. (2012), ["Constrained Optimization Approaches to Estimation of Structural Models."](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7925) Econometrica
 - Rust, John (2000), ["Nested Fixed Point Algorithm: Documentation Manual."](https://editorialexpress.com/jrust/nfxp.pdf) Technical notes
 - Fernandez-Villaverde, Jesus (2023),["Taming the Curse of Dimensionality: Old Ideas and New Strategies"](https://www.sas.upenn.edu/~jesusfv/Taming_Slides.pdf)
+- MIT ["Minimizing a function"](https://ickma2311.github.io/Math/MIT18.065/mit18065-lecture21-minimizing-function.html)
 
 ### Week 3 (01/30): Numerical differentiation and integration
 - MF Ch5
