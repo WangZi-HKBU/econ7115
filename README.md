@@ -77,6 +77,7 @@ Password: 875170
 - Caliendo, L., Dvorkin, M. and Parro, F. (2019), ["Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA13758) Econometrica
 - Kleinman, B., Liu, E. and Redding, S.J. (2023), ["Dynamic Spatial General Equilibrium."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA20273) Econometrica
 - Chen et al. (2026). ["Dynamic Adjustment to Trade Shocks"](https://junyuanchen.com/assets/pdf/Dynamic_Adjustment_to_Trade_Shocks.pdf) working paper
+- Boehm et al. (2023). ["The Long and Short (Run) of Trade Elasticities"](https://www.aeaweb.org/articles?id=10.1257/aer.20210225) American Economic Review
 
 ### Week 8 (03/13): Productivity and quality estimation
 - Olley, G. S., & Pakes, A. (1996). [The Dynamics of Productivity in the Telecommunications Equipment Industry.](https://www.jstor.org/stable/2171831) Econometrica
