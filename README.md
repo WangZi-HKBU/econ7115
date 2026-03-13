@@ -76,7 +76,7 @@ Password: 875170
 - Cai, Jie, Nan Li, and Ana Maria Santacreu. (2022). ["Knowledge Diffusion, Trade, and Innovation across Countries and Sectors."](https://www.aeaweb.org/articles?id=10.1257/mac.20200084) American Economic Journal: Macroeconomics
 - Caliendo, L., Dvorkin, M. and Parro, F. (2019), ["Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA13758) Econometrica
 - Kleinman, B., Liu, E. and Redding, S.J. (2023), ["Dynamic Spatial General Equilibrium."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA20273) Econometrica
-- Chen et al. (2026).[Dynamic Adjustment to Trade Shocks](https://junyuanchen.com/assets/pdf/Dynamic_Adjustment_to_Trade_Shocks.pdf) working paper
+- Chen et al. (2026). ["Dynamic Adjustment to Trade Shocks"](https://junyuanchen.com/assets/pdf/Dynamic_Adjustment_to_Trade_Shocks.pdf) working paper
 
 ### Week 8 (03/13): Productivity and quality estimation
 - Olley, G. S., & Pakes, A. (1996). [The Dynamics of Productivity in the Telecommunications Equipment Industry.](https://www.jstor.org/stable/2171831) Econometrica
