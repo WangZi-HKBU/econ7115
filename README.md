@@ -51,6 +51,7 @@ I may revise the course outline and reading list during the semester.
 - Aw, Bee Yan, Mark J. Roberts, and Daniel Yi Xu. (2008). ["R&D Investments, Exporting, and the Evolution of Firm Productivity."](https://www.jstor.org/stable/29730063) American Economic Review
 - Maliar et al. (2021). ["Deep learning for solving dynamic economic models."](https://www.sciencedirect.com/science/article/pii/S0304393221000799) Journal of Monetary Economics
 - Cai and Judd (2014). ["Advances in Numerical Dynamic Programming and New Applications"](https://kenjudd.org/wp-content/uploads/2021/11/2014-Advances-in-Numerical-Dynamic-Programming-and-New-Applications_Handbook-of-Computational-Economics.pdf) Chapter 8, Handbook of Computational Economics, Volume 3
+- [PKU-Zurich PhD Summer School on Machine Learning for Macro and Finance]( https://liboecon.com/2026_summer_school.html ): application deadline 2026/04/06
 
 ### Week 5 (02/13 online): Quantitative trade models
 
