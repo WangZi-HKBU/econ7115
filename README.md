@@ -83,6 +83,7 @@ Password: 875170
 - Olley, G. S., & Pakes, A. (1996). [The Dynamics of Productivity in the Telecommunications Equipment Industry.](https://www.jstor.org/stable/2171831) Econometrica
 - James Levinsohn, Amil Petrin (2003), [Estimating Production Functions Using Inputs to Control for Unobservables](https://academic.oup.com/restud/article-abstract/70/2/317/1586773), The Review of Economic Studies
 - Ackerberg, D.A., Caves, K. and Frazer, G. (2015), [Identification Properties of Recent Production Function Estimators.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA13408) Econometrica
+- Chen, Z., Liao, M. and Schurter, K. (2024), [Identifying Treatment Effects on Productivity: Theory with an Application to Production Digitalization.](https://kschurter.github.io/papers/productivity-treatment-effects.pdf)
 - Amit Khandelwal (2010).[The Long and Short (of) Quality Ladders](https://academic.oup.com/restud/article-abstract/77/4/1450/1644448), The Review of Economic Studies
 - Paul Piveteau, Gabriel Smagghue (2019). ["Estimating firm product quality using trade data."](https://www.sciencedirect.com/science/article/abs/pii/S0022199619300194) Journal of International Economics
 - De Loecker, Jan, and Frederic Warzynski. (2012). ["Markups and Firm-Level Export Status."](https://www.aeaweb.org/articles?id=10.1257/aer.102.6.2437) American Economic Review 102 (6): 2437–71. 
