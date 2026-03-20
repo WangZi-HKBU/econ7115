@@ -51,6 +51,7 @@ I may revise the course outline and reading list during the semester.
 - Aw, Bee Yan, Mark J. Roberts, and Daniel Yi Xu. (2008). ["R&D Investments, Exporting, and the Evolution of Firm Productivity."](https://www.jstor.org/stable/29730063) American Economic Review
 - Maliar et al. (2021). ["Deep learning for solving dynamic economic models."](https://www.sciencedirect.com/science/article/pii/S0304393221000799) Journal of Monetary Economics
 - Cai and Judd (2014). ["Advances in Numerical Dynamic Programming and New Applications"](https://kenjudd.org/wp-content/uploads/2021/11/2014-Advances-in-Numerical-Dynamic-Programming-and-New-Applications_Handbook-of-Computational-Economics.pdf) Chapter 8, Handbook of Computational Economics, Volume 3
+- [PKU-Zurich PhD Summer School on Machine Learning for Macro and Finance]( https://liboecon.com/2026_summer_school.html ): application deadline 2026/04/06
 
 ### Week 5 (02/13 online): Quantitative trade models
 
@@ -75,6 +76,8 @@ Password: 875170
 - Cai, Jie, Nan Li, and Ana Maria Santacreu. (2022). ["Knowledge Diffusion, Trade, and Innovation across Countries and Sectors."](https://www.aeaweb.org/articles?id=10.1257/mac.20200084) American Economic Journal: Macroeconomics
 - Caliendo, L., Dvorkin, M. and Parro, F. (2019), ["Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA13758) Econometrica
 - Kleinman, B., Liu, E. and Redding, S.J. (2023), ["Dynamic Spatial General Equilibrium."](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA20273) Econometrica
+- Chen et al. (2026). ["Dynamic Adjustment to Trade Shocks"](https://junyuanchen.com/assets/pdf/Dynamic_Adjustment_to_Trade_Shocks.pdf) working paper
+- Boehm et al. (2023). ["The Long and Short (Run) of Trade Elasticities"](https://www.aeaweb.org/articles?id=10.1257/aer.20210225) American Economic Review
 
 ### Week 8 (03/13): Productivity and quality estimation
 - Olley, G. S., & Pakes, A. (1996). [The Dynamics of Productivity in the Telecommunications Equipment Industry.](https://www.jstor.org/stable/2171831) Econometrica
