@@ -110,6 +110,6 @@ Password: 875170
 - Catherine, S., Chaney, T., Huang, Z., Sraer, D. and Thesmar, D. (2022), [Quantifying Reduced-Form Evidence on Collateral Constraints.](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13158) The Journal of Finance
 - Konrad B. Burchardi, Thomas Chaney, Tarek Alexander Hassan, Lisa Tarquinio & Stephen J. Terry. (2024) ["Immigration, Innovation, and Growth."](https://www.nber.org/papers/w27075) American Economic Review
 
-### Week 13 (04/24): Sufficient statistics
-- Donaldson, Dave. (2022). ["Blending Theory and Data: A Space Odyssey."](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.185) Journal of Economic Perspectives, 36 (3): 185–210.
-- Henrik J. Kleven. (2021). ["Sufficient Statistics Revisited."](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-060220-023547) Annual Review of Economics
+### Week 13 (04/24): Optimal Treatment
+- Assuncao, Juliano, Robert Mcmillan, and Joshua Murphy (2023). ["Optimal Environmental Targeting in the Amazon Rainforest."](https://academic.oup.com/restud/article-abstract/90/4/1608/6747968?redirectedFrom=fulltext) Review of Economic Studies, 90: 1608-1641.
+- Athey, S. and Imbens, G.W. (2006). ["Identification and Inference in Nonlinear Difference-in-Differences Models."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2006.00668.x) Econometrica, 74: 431-497.
